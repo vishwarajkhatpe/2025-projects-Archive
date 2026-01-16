@@ -1,0 +1,17 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+
+# Ignore Large Datasets (Add your specific large folder names here)
+# Example: If you have a folder named "images" inside Forest_Fire
+*/images/
+*/dataset/
+*/datasets/
+*.csv
+*.zip
+*.jpg
+*.png
+*.jpeg
